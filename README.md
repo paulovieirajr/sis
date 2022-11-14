@@ -2,7 +2,7 @@
 
 A ferramenta SIS é um aplicação de linha de comando em Golang que busca ips e servidores.
 
-Certifique-se de ter a golang instalada em seu computador, caso contrário basta seguir as instruções do [site oficial](https://go.dev/).
+Certifique-se de ter a Golang instalada em seu computador, caso contrário basta seguir as instruções do [site oficial](https://go.dev/).
 
 Para utilizar a ferramenta é bem simples:
 
